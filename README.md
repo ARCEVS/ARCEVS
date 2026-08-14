@@ -6,9 +6,9 @@
 
  <p align="center"><img width="100" src="https://cdn.discordapp.com/attachments/1414894704050311201/1537788211059761213/Untitled109_20260814184104.png?ex=6a805060&is=6a7efee0&hm=45e97c0885170c2dd27eb071908dc892cafbb5d382164d5711ddfd3f6becdcab&" alt="a mockery" align="left" /></p>
 
-[a](https://2face.atabook.org/)tabook ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎‎ ‎‎ ‎‎‎  ‎‎ ‎‎‎ ‎ ‎‎‎‎‎‎‎pron[o](https://pronouns.cc/@2face)uns.cc ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+[a](https://2face.atabook.org/)tabook ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎‎ ‎‎‎  ‎‎ ‎‎‎ ‎ ‎‎‎‎‎‎‎pron[o](https://pronouns.cc/@2face)uns.cc ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
  
- ${\color{#683531}{The}}$ ${\color{#893F34}{Two}}$ ${\color{#B14C38}{face}}$ ${\color{#D9583B}{of}}$ ${\color{#E95D3C}{Ponytown}}$‎ ‎ ‎ ‎ ‎‎‎‎ ‎‎ ‎‎‎‎   ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎‎‎‎‎[*pt-wof*](https://github.com/pt-walk-of-fame) [*pt-f*](https://github.com/pt-fashion) [*pt-hom*](https://github.com/pt-hall-of-media) [*pt-m*](https://github.com/pt-medals) [*pt-n*](https://github.com/pt-nominations)
+ ${\color{#683531}{The}}$ ${\color{#893F34}{Two}}$ ${\color{#B14C38}{face}}$ ${\color{#D9583B}{of}}$ ${\color{#E95D3C}{Ponytown}}$‎ ‎ ‎ ‎ ‎‎‎‎ ‎‎ ‎‎‎‎  ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎‎‎‎‎[*pt-wof*](https://github.com/pt-walk-of-fame) [*pt-f*](https://github.com/pt-fashion) [*pt-hom*](https://github.com/pt-hall-of-media) [*pt-m*](https://github.com/pt-medals) [*pt-n*](https://github.com/pt-nominations)
  
  <img src="https://komarev.com/ghpvc/?username=WaverIy&style=flat-square&color=683531&label=coin+flips" alt="profile view counter" width="100"> 　
 
