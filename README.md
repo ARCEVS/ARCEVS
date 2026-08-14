@@ -1,6 +1,6 @@
 
 
-  <p align="center"><img width="10" src="https://cdn.discordapp.com/attachments/1414894704050311201/1532589850413498528/Untitled102_20260731102412.png?ex=6a6d6706&is=6a6c1586&hm=68621314cb5b23a841ad08b85c91bbbd15a9b2ea223aa0951ed0142887bf1f25&" alt="of a potential" align="left" /></p><p align="center">  <p align="center"><img width="280" src="https://cdn.discordapp.com/attachments/1414894704050311201/1537781996258861098/Untitled109_20260814181537.png?ex=6a804a96&is=6a7ef916&hm=6525428e878f003f94448c3ac9f11a12a3e2f09789a3864b570d5ddc0536c6e2&" alt="i am everything but" align="left" /></p>
+  <p align="center"><img width="10" src="https://cdn.discordapp.com/attachments/1414894704050311201/1532589850413498528/Untitled102_20260731102412.png?ex=6a6d6706&is=6a6c1586&hm=68621314cb5b23a841ad08b85c91bbbd15a9b2ea223aa0951ed0142887bf1f25&" alt="of a potential" align="left" /></p><p align="center">  <p align="center"><img width="280" src="https://cdn.discordapp.com/attachments/1414894704050311201/1537795380173869186/Untitled111_20260814190937.png?ex=6a80570d&is=6a7f058d&hm=067f316d36873eb8110242312a7875ddc43abf7ff81170d5733bfb8c829fbf36&" alt="i am everything but" align="left" /></p>
 <p align="center"><img width="300" src="https://cdn.discordapp.com/attachments/1414894704050311201/1537784218547920927/Untitled109_20260814182517.png?ex=6a804ca8&is=6a7efb28&hm=e77e9c6c21f27009bbdac267d411c500bd0a65e3bd05127d07388acdc11ffdf5&" alt="a mockery" align="left" /></p>
 
 
