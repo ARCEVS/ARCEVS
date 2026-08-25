@@ -24,7 +24,7 @@
   </tr>
 </table>
 </div>
-
+<br>
 <p align="center">
  ${\color{#683531}{The}}$ ${\color{#893F34}{Two}}$ ${\color{#B14C38}{face}}$ ${\color{#D9583B}{of}}$ ${\color{#E95D3C}{Ponytown}}$‎ ‎<br>
  ᵖᵃʷ-ᵗᵒʷⁿ ᶜʰᵃʳᵃᶜᵗᵉʳˢᵒᶠᵖᵗ ᵖᵗᶜᵒˢᵖˡᵃʸᵉʳˢ ᵖᵗ-ᵐᵉᵈᵃˡˢ ᵖᵗ-ʷᵒᶠ ᵖᵗ-ᶠ ᵖᵗ-ʰᵒᵐ ᵖᵗ-ᵐ ᵖᵗ-ⁿ
