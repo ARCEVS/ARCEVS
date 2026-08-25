@@ -16,7 +16,7 @@
     </td>
   </tr>
 
-  <img src="https://cdn.discordapp.com/attachments/1414894704050311201/1532589850413498528/Untitled102_20260731102412.png?ex=6a8e5c86&is=6a8d0b06&hm=1b0521efeaf475cf14d75ff35e5900c3d18940feaddf346bc544c01c47886047&" alt="1" width="60" align="left"><img src="https://cdn.discordapp.com/attachments/1414894704050311201/1541781078015213678/Untitled118_20260825190702.png?ex=6a8ed705&is=6a8d8585&hm=5c072f5b1f8809753e459763019db2a687c65cdd34f9174e4dd1901f6b73edf8&" align="left" alt="1" width="350">
+  <img src="https://cdn.discordapp.com/attachments/1414894704050311201/1532589850413498528/Untitled102_20260731102412.png?ex=6a8e5c86&is=6a8d0b06&hm=1b0521efeaf475cf14d75ff35e5900c3d18940feaddf346bc544c01c47886047&" alt="1" width="40" align="left"><img src="https://cdn.discordapp.com/attachments/1414894704050311201/1541781078015213678/Untitled118_20260825190702.png?ex=6a8ed705&is=6a8d8585&hm=5c072f5b1f8809753e459763019db2a687c65cdd34f9174e4dd1901f6b73edf8&" align="left" alt="1" width="350">
 
 
 </div>
